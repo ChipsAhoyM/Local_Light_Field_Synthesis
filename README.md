@@ -11,9 +11,6 @@ Example Input 2D Image
 
 ![Example Input 2D Image](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/central.png)
 
-Predicted 4D Ray Depths
-
-![Predicted 4D Ray Depths](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/depth.gif)
 
 Synthesized 4D Light Field
 
@@ -31,7 +28,8 @@ Synthesized Synthetic Depth-of-Field (Focused on Background)
 ### Contents
 
 This repository contains:
-1) Local_Light_Field_Synthesis.ipynb Jupyter notebook with an implementation of our algorithm. Note that this code may contain slight updates and modifications to the code used in our paper.
+1) Local_Light_Field_Synthesis.ipynb Jupyter notebook with an implementation of our algorithm. 
+1) validation.ipynb Jupyter notebook with an validation of the algorithm. (re-implementation)
 
 ### Dependencies
 
