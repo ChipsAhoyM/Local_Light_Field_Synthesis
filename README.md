@@ -38,4 +38,3 @@ Synthesized Synthetic Depth-of-Field (Focused on Flower)
 Synthesized Synthetic Depth-of-Field (Focused on Background)
 
 ![Synthesized Synthetic Depth-of-Field](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/full2.png)
-
